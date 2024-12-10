@@ -1,2 +1,2 @@
-# andrewtrotman.github.io
-Andrew Trotman's Web Site
+# COSC_website
+Personal web page at the University of Otago

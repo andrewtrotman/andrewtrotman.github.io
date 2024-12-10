@@ -1,0 +1,694 @@
+<title>Poly Software</title>
+<body>
+
+<a href=../Poly.htm>Return to The Poly Preservation Project</a><br>
+<br>
+
+<!--
+	BLANK DISKS
+	-----------
+-->
+<font size=+2>BLANK DISKS</font><br>
+
+&bull;<a href=unlabled_1.dsk>Blank Disk</a> (No Operating System)
+<a href=emergency_disk_2.dsk>Second</a>
+<a href=empty-.dsk>Third</a><br>
+<br>
+
+<!--
+	OPERATING SYSTEM
+	----------------
+-->
+<font size=+2>OPERATING SYSTEM DISKS</font><br>
+
+<font size=+1>POLY 1</font><br>
+&bull;<a href=whhs_computer_awareness_poly_1.dsk>POLYSYS</a> Poly 1 Disk Operating System (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)
+<br><br>
+
+<font size=+1>POLY 2</font><br>
+&bull;<a href=poly_operating_system_disk_version_30.dsk>POLYSYS</a> Poly 2 Disk Operating System (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0) 
+<a href=Poly_Operating_System_Disk_Version_3_0_Poly2.dsk>Second</a>
+<a href=Poly_operating_system_disk_poly2_version_30_double_sided.dsk>Third</a>
+<br>
+&bull;<a href=program_pascal_2-0_2.dsk>POLYSYS</a> Poly 1 Disk Operating System (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)
+<br><br>
+
+<font size=+1>PROTEUS and POLY 2</font><br>
+&bull;<a href=polycpm/poly2_cpm80_v22.cpm>CP/M</a> Proteus Z80 CP/M operating system with networked Poly 2 as console (CP/M 2.2, BIOS 3.60P)
+<br><br>
+
+<font size=+1>PROTEUS</font><br>
+&bull;<a href=proteus/flex.dsk>FLEX</a> Proteus 6809 FLEX operating system (Version 2.8:3 - 1.1:2)</a><br>
+&bull;<a href=proteus/cpm1-noskew.cpm>CP/M</a> Proteus Z80 CP/M operating system (CP/M 2.2, BIOS 3.3)</a><br>
+&bull;<a href=proteus/cpm2-noskew.cpm>CP/M</a> Proteus Z80 CP/M operating system (CP/M 2.2, BIOS 3.61)</a><br>
+<br><br>
+
+
+<!--
+	DEMONSATRATION DISKS
+	--------------------
+-->
+<font size=+2>DEMONSTRATIONS</font><br>
+
+&bull;<a href=demo.dsk>Demonstration</a> Poly 1 Demonstration Disk (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+<br>
+&bull;<a href=demonstration.dsk>Demonstration</a> Poly 1 Demonstration Disk (with extra files) (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+<br><br>
+
+
+<!--
+	MISH-MASH
+	---------
+-->
+<font size=+2>MISH MASH</font><br>
+&bull;<a href=text_editing_examples.dsk>Omegasoft Pascal / TSC Text Processor</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+There are only two files on this disk, one is CAT the other is OVERRIDE.  It is not clear what OVERRIDE does<br>
+<br>
+&bull;<a href=lex_chalmers_backup.dsk>Lex Chalmers</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+Looks like the personal programs of Lex Chalmers<br>
+<br>
+<br><br>
+
+<br><br>
+
+
+<!--
+	UTILITIES
+	---------
+-->
+<font size=+2>UTILITIES</font><br>
+
+&bull;<a href=TSC_TEXT_PROCESSOR.dsk>TSC Text Processor</a> (No Operating System)<br>
+<br>
+
+&bull;<a href=Artist.dsk>Artist</a> (NO OPSYS)
+<a href=artist_copied_10_4_85.dsk>Second</a><br>
+Artist<br>
+<br>
+
+&bull;<a href=CSPP_MicroCalc_SeeMicro_SeeAscii_SeeSorts.dsk>Micro Calc, See Micro, See ASCII, See Sorts</a> (NO OPSYS)<br>
+See ASCII<br>
+See micro<br>
+See sorts<br>
+MicroCalc<br>
+<br>
+
+&bull;<a href=test_disk_wilson_electrix.dsk>Poly Diagnostics</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Polytest<br>
+Srom<br>
+Scarla<br>
+Bird<br>
+Dchang<br>
+Broad<br>
+Cattest<br>
+<br>
+
+&bull;<a href=override.dsk>Override</a> (No Operating System)<br>
+OVERRIDE protectons on a file (see Polysys Utilities Manual<br>
+<br><br>
+
+
+
+
+
+
+<!--
+	DEVELOPMENT TOOLS
+	-----------------
+-->
+<font size=+2>DEVELOPMENT TOOLS</font><br>
+&bull;<a href=Poly_educational_system_Pascal_Programming_v20.dsk>Polysys and Omegasoft Pascal</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+&bull;<a href=program_pascal_2-0_1.dsk>second (cleaner)</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+Omegasoft Pascal 2.0.3<br>
+<br>
+
+&bull;<a href=program_pascal_2-0_start.dsk>Logo</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+John Anson's Logo from Massey University<br>
+<br>
+
+
+
+<a href=backup_os_v30_double_sided.dsk>POLYSYS v3.4</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Polytest<br>
+<br>
+
+&bull;<a href=polytas_proforma_pilot_staff_authoring_disk_staff_utilities_reports_rolls.dsk>Polytools #1</a> (OPSYS - Version 3.2.0 - Jul 1983, EXTENDED POLYBASIC V3.4)<br>
+Polytas<br>
+Proforma<br>
+Pilot<br>
+Polygen<br>
+File a class roll on disk<br>
+Class attendance register printer<br>
+Write, edit and print reports<br>
+Library of useful routines<br>
+Introduction to the MENU Program<br>
+Introduction to menu Generator<br>
+Run the menu generator<br>
+Set up a WMENUGEN disk<br>
+Polyword<br>
+<br>
+
+&bull;<a href=staff_authoring_disk_v30_poly2.dsk>Polytools #1</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Polytas<br>
+Proforma<br>
+Pilot<br>
+Polygen<br>
+File a class roll on disk<br>
+Class attendance register printer<br>
+Write, edit and print reports<br>
+Library of useful routines<br>
+Introduction to the MENU Program<br>
+Introduction to menu Generator<br>
+Run the menu generator<br>
+Set up a WMENUGEN disk<br>
+Polyword<br>
+<br>
+
+
+&bull;<a href=forge_master_v23_28_10_86.dsk>FORGE</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+FORGE authoring editors<br>
+FORGE collator<br>
+FORGE delivery system<br>
+<br>
+
+&bull;<a href=forge_on_forge_master.dsk>FORGE ON FORGE</a> (NO OPSYS)<br>
+FORGE ON FORGE (FONF.RUN)<br>
+How to prune a rose bush (ROSES.RUN)<br>
+FORGE course evaluation (EVALUATE.RUN)<br>
+<br>
+
+&bull;<a href=forge_15_instructional_system.dsk>FORGE INSTRUCTIONAL DISK</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+FORGE design editor<br>
+FORGE layout editor<br>
+FORGE authoring editors<br>
+FORGE collator<br>
+FORGE delivery system<br>
+FORGE manager<br>
+<br>
+
+
+<!--
+OTHER STUFF:
+	Poly_educational_system_Pascal_Programming_v20_slater_hayes.dsk
+ERRORS:
+	ERRORS_Poly_Pilot_v2-0.dsk							[ broken file: PILOT.BAS ]
+	ERRORS_CSP_Statistics_master_disk.dsk
+	ERRORS_whhs_maths_ver_1.dsk
+	ERRORS_free_pool_waiariki_community_college.dsk
+	ERRORS_games_master_no_os.dsk						[ broken file: WBCPACMN.BAC ]
+	ERRORS_Hinewai_Poly_v_30.dsk
+-->
+
+<br>
+
+
+
+<!--
+	GAMES
+	-----
+-->
+<font size=+2>GAMES</font><br>
+&bull;<a href=my_games.dsk>POLY GAMES</a> (NO OPSYS)<br>
+Snakes and ladders<br>
+Naughts and crosses<br>
+Stargame<br>
+Octopus<br>
+Alien<br>
+Pacman1<br>
+Poker<br>
+Camel<br>
+Sqirm<br>
+Defender<br>
+Battleships<br>
+Hotshot<br>
+Bounce<br>
+Rogue<br>
+Ace-man<br>
+Pacman2<br>
+The 15 puzzle<br>
+Shoot<br>
+Left and right<br>
+Pirate adventure<br>
+Pacman3<br>
+Squash<br>
+Mastermind<br>
+Dogfight<br>
+Maze<br>
+Space defence<br>
+Keyboard<br>
+Star trek<br>
+Maths noughts and crosses<br>
+Wari<br>
+Alien attack<br>
+Minefield<br>
+Grand Prix in 83<br>
+Maths master<br>
+Geography Hangman<br>
+Loops<br>
+Lunar lander<br>
+Vampire adventure<br>
+Atlantis adventure<br>
+Number Practice<br>
+<br>
+
+&bull;<a href=best_student_games_of_chance.dsk>Student's Games - 1991</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Guess the card<br>
+Gambler<br>
+Slot machine<br>
+Balldrick goes to the races<br>
+Russian roulette<br>
+A dice game<br>
+Glenno<br>
+Blotto<br>
+A maths game<br>
+A drawing game<br>
+<br>
+
+&bull;<a href=games_v30_poly2.dsk>Games #1</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Stargame!!<br>
+Patterns<br>
+Defender!<br>
+Shoot!<br>
+Battleships<br>
+Wari<br>
+Pirate!<br>
+Poker Game!<br>
+Octopus!<br>
+Pac-Man<br>
+Monster-Pit!<br>
+Serpentine!!<br>
+Tepris<br>
+<br>
+
+&bull;<a href=games_version_2.dsk>Games I</a> (OPSYS - Version 3.2.0 - Jul 1983, EXTENDED POLYBASIC V3.4)<br>
+Battleships<br>
+Defender<br>
+Patterns<br>
+Shoot<br>
+Stargame<br>
+Wari<br>
+<br>
+
+
+
+<!--
+	CALP
+	----
+-->
+<font size=+2>CALP</font><br>
+
+&bull;<a href=CALP_1_V3_0_poly_2.dsk>C.A.L.P No:1</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Introducing Computers<br>
+Keyboard Skill Game<br>
+Shoot the Word<br>
+Phone Orders<br>
+My Budget<br>
+Personal Record Form<br>
+Computer Certificate<br>
+Job Costing<br>
+Stocktaking<br>
+<br>
+
+&bull;<a href=CALP_1A_Personal_Record.dsk>CALP No:1a - Personal Record</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Personal Record<br>
+<br>
+
+&bull;<a href=CALP_v3_0_Poly_2_1A_personal_record.dsk>CALP No:1a - Personal Record</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Personal Record<br>
+<br>
+
+&bull;<a href=CALP_V_3_Poly_2_2_The_Decider_and_Musak.dsk>CALP No:2 - Reader, Decider, and Muscat</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+The reader menu<br>
+The decider menu<br>
+The muscat menu<br>
+<br>
+
+&bull;<a href=CALP_5_v_30_poly2_SYMAD.dsk>CALP Programs No:5 - Symad</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Symad an adventure writer<br>
+<br>
+
+&bull;<a href=CALP_6_v_3_0_poly_2_Grafix_and_Library.dsk>CALP No:6 - Grafix</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+GRAFIX<br>
+Examples in teach yourself GRAFIX<br>
+GRAFIX part 2<br>
+<br>
+
+&bull;<a href=CALP_7_v_3_0_poly_2_driving_licence_tests_1_2_3.dsk>CALP No:7 - Driving Licence 1,2,3</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Driving Licence Tests (1,2,3)<br>
+<br>
+
+&bull;<a href=CALP_8_v3_0_poly2_Driving_license_tests3_4_5.dsk>CALP No:7 - Driving Licence 3,4,5</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Driving Licence Tests (3,4,5)<br>
+<br>
+
+&bull;<a href=CALP_9_V3_0_Poly2_Alphabet_and_typing_game.dsk>CALP No:9 - Alphabet</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Alphabet (freepool)<br>
+Alphabetical order (levels 1,2,3)<br>
+Typing game (home keys etc)<br>
+<br>
+
+
+&bull;<a href=calp_preview_disk_1.dsk>CALP preview disk 1 - General</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.4)<br>
+&bull;<a href=calp_preview_disk_2.dsk>CALP preview disk 2 - The Decider + Muscat</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+&bull;<a href=calp_preview_disk_3.dsk>CALP preview disk 3 - Literacy</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+&bull;<a href=calp_preview_disk_4.dsk>CALP preview disk 4 - Mazes + Adventures</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.4)<br>
+&bull;<a href=calp_preview_disk_5.dsk>CALP preview disk 5 - Symad</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.4)<br>
+&bull;<a href=calp_preview_disk_6.dsk>CALP preview disk 6 - Grafix</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.4)<br>
+&bull;<a href=calp_preview_disk_7.dsk>CALP preview disk 7 - Driveing Licence 1,2,3</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+&bull;<a href=calp_preview_disk_8.dsk>CALP preview disk 8 - Driving Licence 3,4,5"</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+&bull;<a href=calp_preview_disk_9.dsk>CALP preview disk 9 - Alphabet</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+<br>
+
+
+<!--
+	EDUCATIONAL
+	-----------
+-->
+<font size=+2>EDUCATIONAL</font><br>
+<!--
+	Vocational Training
+	-----
+-->
+<font size=+1>VOCATIONAL TRAINING</font><br>
+&bull;<a href=program_pascal_2-0_peter_simon.dsk>Vocational Training</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+<br>
+&bull;<a href=voc_guide.dsk>Vocational Training</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+This looks like some kine of development disk to do with vocational training.
+<br>
+<br>
+<br>
+
+
+<!--
+	Mixed
+	-----
+-->
+<font size=+1>MIXED SUBJECTS</font><br>
+
+&bull;<a href=Malfroy_2.dsk>Malfroy's Disk</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Awareness<br>
+Economics<br>
+English<br>
+Games<br>
+Languages<br>
+Mathematics<br>
+Music<br>
+Science<br>
+General<br>
+Compiled programs<br>
+<br>
+
+
+<!--
+	Computer Awareness
+	------------------
+-->
+<font size=+1>COMPUTER AWARENESS</font><br>
+
+&bull;<a href=CALP5_v_2_3_Poly_1_SYMAD_EMPTY.dsk>Introduction to the Keyboard</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)
+<a href=Typing_v3_0_poly2.dsk>Second</a><br>
+Home keys and<br>
+The other keys<br>
+Paragraphs and assessment<br>
+<br>
+
+
+
+<!--
+	English
+	-------
+-->
+<font size=+1>ENGLISH</font><br>
+
+&bull;<a href=awhina_programs_8_spelling_maths_language.dsk>Awhina Computer Program</a> (NO OPSYS)<br>
+Maths<br>
+Spelling<br>
+Find the word<br>
+Capitals of the world<br>
+Fill in the letter<br>
+Maori<br>
+<br>
+
+&bull;<a href=g33_lost_lable_was_english_something.dsk>English</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Use verbs and nouns "pirate"<br>
+Suffixes<br>
+Royal family tree<br>
+Reconstruct sentences<br>
+Alphabetical order (levels 1,2,3)<br>
+Dictionary use<br>
+Japanese poetry "hiku"<br>
+Spelling tester<br>
+Computers and language<br>
+Comprehension<br>
+Hangman<br>
+ies es s type ending<br>
+Spelling lesson<br>
+Twist a plot 1<br>
+Twist a plot 2<br>
+Twist a plot 3<br>
+The Dewey system<br>
+Learning to read<br>
+Finding library books<br>
+Work finder grammar<br>
+Looking after books<br>
+Words with similar meanings<br>
+Hommonyns take caps lock off<br>
+Nouse verbs etc caps lock on<br>
+Main ideas in a paragraph<br>
+Guess the work<br>
+Cloze test poems rhyms etc<br>
+Suffixes<br>
+<br>
+
+
+<!--
+	Language
+	--------
+-->
+<font size=+1>LANGUAGE</font><br>
+
+&bull;<a href=poly_system_version_21_hiragana_lession1_bas.dsk>Hiragana</a> (not linked:OPSYS - Version 3.2.0 - Jul 1983, EXTENDED POLYBASIC V3.4)<br>
+Poly Alfonso Japanese One<br>
+Hinewai's Programs<br>
+&nbsp;&nbsp;Housemath<br>
+&nbsp;&nbsp;Spelling<br>
+&nbsp;&nbsp;Check words<br>
+&nbsp;&nbsp;Make a sentence<br>
+<br>
+
+&bull;<a href=Te_reo_maori_v3_0_Poly_2.dsk>Te Reo Maori</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Kei hea te<br>
+Te whenua<br>
+Nga wahanga o te tinana<br>
+Hei mahi<br>
+He aha tenei<br>
+<br>
+
+<!--
+	Music
+	-----
+-->
+<font size=+1>MUSIC</font><br>
+
+&bull;<a href=wl_music_1.dsk>Music #1</a> (NO OPSYS)<br>
+Compose music by numbers<br>
+Computer plays 'the sting'<br>
+Use sharps and flats<br>
+Modular composition<br>
+Set up class music rolls<br>
+Print class attendance registers<br>
+Compute Bently test scores<br>
+Sort Bently test scores<br>
+Computer writes your tune<br>
+Print out class rolls<br>
+Write, Edit and print reports<br>
+<br>
+
+
+<!--
+	Maths
+	-----
+-->
+<font size=+1>MATHS</font><br>
+
+&bull;<a href=TRR043_green_dot.dsk>Kaa Tahapeehi Presents Mathematics</a> (NO OPSYS)<br>
+Addition<br>
+Subtraction<br>
+Multiplication<br>
+Division<br>
+<br>
+
+&bull;<a href=maths_2_version_3_0.dsk>Mathematics #1</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br> 
+<a href=maths_1.dsk>Second</a> (NO OPSYS)<br>
+Perimeters - lesson 1<br>
+Perimeters - lesson 2<br>
+Areas - lesson 1<br>
+Areas - lesson 2<br>
+Solving equations I<br>
+Solving equations II<br>
+Maths hangman<br>
+Arithmetic<br>
+Tables<br>
+Introduction to trigonometry 1<br>
+Introduction to trigonometry 2<br>
+Introduction to trigonometry 3<br>
+Introduction to trigonometry 4<br>
+Snakes and ladders<br>
+Cosine and sine<br>
+Standard deviation<br>
+Draw your own graph<br>
+<br>
+
+&bull;<a href=perimeters_lession_1_2_areas_lession1_2_error_program.dsk>Perimeters</a> (OPSYS - Version 3.0.0 - Jun 1982, EXTENDED POLYBASIC V3.4)<br>
+Perimeters - Lesson 1<br>
+Perimeters - Lesson 2<br>
+Areas - Lesson 1<br>
+Areas - Lesson 2<br>
+Report Errors<br>
+Various other stuff including: Omegasoft Pascal 2.0.3, TSC Text Processor, WLwrite WLEdit and so on<br>
+<br>
+
+&bull;<a href=BASIC_maths_etc.dsk>Basic Maths etc.</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Bobo additions<br>
+Bobo multiplications<br>
+Rabbit<br>
+Plain addition 6<br>
+Plain addition 10<br>
+Number line adding -12<br>
+Number line subtracting -12<br>
+Number line add. & Sub. -12<br>
+Number line adding -90<br>
+Number line subtracting -90<br>
+Number line add. & sub. -90<br>
+Times Tables<br>
+Dice and Numbers<br>
+<br>
+
+&bull;<a href=green_dot.dsk>Various Maths</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Tables<br>
+Cos and sine<br>
+Bar graph<br>
+Quadrilateral<br>
+Number system<br>
+triangles<br>
+O & X<br>
+Skills<br>
+Cylinder<br>
+Intersect<br>
+Simult<br>
+Sumprodav<br>
+linear<br>
+oporder<br>
+Fraction<br>
+Probability<br>
+Arithmetic<br>
+Tables quiz<br>
+Factors<br>
+Percent&graph<br>
+Add & subtract<br>
+Tables speed<br>
+Bingo<br>
+Count<br>
+Fraction order<br>
+Factor tree<br>
+Linear eq<br>
+Matrix<br>
+Symmetry<br>
+Shapes<br>
+Place value<br>
+Shape area<br>
+Number order<br>
+Math family<br>
+Count<br>
+Multiply<br>
+Roman<br>
+Fraction-dec<br>
+Shapes-2<br>
+Slice<br>
+Subtract<br>
+Cubenet<br>
+Adestimate<br>
+Order<br>
+Tables-2<br>
+Area Measure<br>
+<br>
+
+&bull;<a href=Awihina_maths_diks_quite_difficult.dsk>Mathematics Is Fun</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Linear equations<br>
+Learn to count to ten<br>
+Learn to sketch graphs<br>
+Roots of quadratic equation<br>
+Count the letters in a script<br>
+Name different types of triangle<br>
+Factoring quadratic equations<br>
+Learn about quaderlaterals<br>
+Compare fraction values<br>
+Five year old counting to 10<br>
+Arithmetic game for two<br>
+Addition game for more than one<br>
+Multiplication game in 3 levels<br>
+Draw geometric shapes<br>
+Integer number line<br>
+Test your multiplication skills<br>
+Maths word hangman<br>
+Cross multiplication<br>
+Plot your own graphs<br>
+O's and x's arithmetic<br>
+A very good tables game<br>
+The ancient abacus<br>
+Industrial location (worksheets)<br>
+Order of operations<br>
+Mrs Wests graph program<br>
+Land a space craft division<br>
+Linear graphs test y=mx+c<br>
+Plotting and adding sine, cosine<br>
+Solve simultanious equations<br>
+Find the sum product and average<br>
+Adding fractions<br>
+Throw dice or toss a coin<br>
+Learn about cylinders<br>
+Calculate standard deviations<br>
+<br>
+
+&bull;<a href=back_up_for_maxs_basic_maths_and_general.dsk>Max's Math Disk</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Addingo<br>
+Mixed Rules<br>
+Factors<br>
+Subtraction<br>
+Area tables<br>
+Bobo<br>
+Quiz<br>
+Vampire<br>
+Atlantis<br>
+<br>
+
+<!--
+	Science
+	-------
+-->
+<font size=+1>SCIENCE</font><br>
+
+&bull;<a href=Awhuia_Science_Disk_2_3_parts_of_the_body.dsk>Science</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V2.3)<br>
+Learn the parts of the body<br>
+Simulation - the plague spreads<br>
+Learn chemical symbols<br>
+<br>
+
+&bull;<a href=science_ver_30.dsk>Science</a> (OPSYS - Version 3.4.0 - Nov 1984, EXTENDED POLYBASIC V3.0)<br>
+Fertilizer<br>
+Animal clas<br>
+Gene freq<br>
+Evolution<br>
+Nat selection<br>
+Planets<br>
+Day-Night<br>
+Elements-1<br>
+Elements-2<br>
+Animal quiz<br>
+Solar system<br>
+Solar sys-2<br>
+The senses<br>
+<br>
+
+
+</body>
